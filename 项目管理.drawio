@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T09:55:41.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nGU8FG6FfdK3Np00tdHE" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T10:34:36.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZQztq5ltrjNBOc7NnbeN" version="22.1.18" type="github">
   <diagram name="第 1 页" id="4Qpj_fmBWcSnVKlhVKCQ">
     <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-4" target="NZoPy9VmbZLPDRG8ih34-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-4" value="一，任务闭环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-4" value="二，任务管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="311" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-5" target="NZoPy9VmbZLPDRG8ih34-7">
@@ -53,6 +53,11 @@
             <mxPoint x="-2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-263" value="评估-计划-就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-237">
+          <mxGeometry x="-0.8693" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-7" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;整理&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;评估-计划-就绪&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="296" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,15 +68,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-9" value="执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="864" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NZoPy9VmbZLPDRG8ih34-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1123" y="340" as="sourcePoint" />
+            <mxPoint x="1217" y="340" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1123" y="320" />
-              <mxPoint x="1130" y="320" />
-              <mxPoint x="1130" y="326" />
+              <mxPoint x="1217" y="320" />
+              <mxPoint x="1224" y="320" />
+              <mxPoint x="1224" y="326" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,24 +84,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;复盘&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="1114" y="296" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-13" target="NZoPy9VmbZLPDRG8ih34-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1566" y="326" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-13" value="输出：成果展示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="1344" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-36" target="NZoPy9VmbZLPDRG8ih34-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="731" y="631" as="targetPoint" />
+            <mxPoint x="825" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-36" value="&lt;h1&gt;执行优先级&lt;/h1&gt;&lt;div&gt;一，重要性角度：重要紧急；重要不紧急；不重要不紧急&lt;/div&gt;&lt;div&gt;二，周期性角度：长期；中期；短期&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="716.25" y="405.5" width="227.5" height="109" as="geometry" />
+          <mxGeometry x="834" y="411.5" width="227.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-39" target="NZoPy9VmbZLPDRG8ih34-266">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-39" value="&lt;h1&gt;执行内容-领域-形式&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;项目任务【多步长期完成】&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;project：各个领域的&lt;br&gt;&lt;/li&gt;&lt;li&gt;任务：项目相关的任务&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;代办清单【单步短期完成的】&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;行程安排【行动清单 】&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结合上面两步根据项目任务和代办清单的重要性时间安排 自动生成daily dashborad&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;落地执行清单&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;思考速记&lt;/li&gt;&lt;li&gt;整理梳理&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="570" width="235" height="240" as="geometry" />
+          <mxGeometry x="844" y="570" width="235" height="240" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-41" target="NZoPy9VmbZLPDRG8ih34-55">
           <mxGeometry relative="1" as="geometry" />
@@ -156,46 +166,12 @@
           <mxGeometry x="1472" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-93" value="备注" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-760" width="780" height="430" as="geometry">
+          <mxGeometry y="-760" width="780" height="500" as="geometry">
             <mxRectangle x="10" y="-500" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-87" value="&lt;ol&gt;&lt;li&gt;概述&lt;/li&gt;&lt;ol&gt;&lt;li&gt;人不为己，天诛地灭&lt;/li&gt;&lt;li&gt;穷则独善其身，富则兼济天下&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;策略&lt;/li&gt;&lt;ol&gt;&lt;li&gt;输出倒闭输入；以战带练；理论+实战+复盘抽象模型&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;注意&lt;/li&gt;&lt;ol&gt;&lt;li&gt;执行力：目标不等于结果，执行落地才是结果，不要停留在想的层面，而是真实的经历，干的过程中！执行力！别幻想&lt;/li&gt;&lt;li&gt;分清楚：愿景 目标 手段 计划&lt;/li&gt;&lt;li&gt;&lt;b&gt;学习是解决问题的手段，而不是逃避思考和行动的工具 ！变现！&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;架构设计：不同层面 维度 高度 难度 境界可以有不同的架构设计&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则一：原理逻辑性和完备性&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则二：好理解好记忆好上手&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;梳理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;（精力管理）优先级：核心本质 主次 轻重 缓急 先后&lt;/li&gt;&lt;li&gt;（时间管理）时间轴：高效时间；整块时间；碎片时间&lt;/li&gt;&lt;li&gt;（效率管理）专注；高效；主动；勇敢&lt;/li&gt;&lt;li&gt;（目标管理）愿景》目标计划okr》项目任务》复盘迭代&lt;/li&gt;&lt;li&gt;（复盘管理）过程（具体的时间 思考 心态 行为）；思考（分析）；改进（迭代升级）&lt;/li&gt;&lt;li&gt;（维度管理）道法术器 虚实结合=道（因果规律原理本质-&lt;font color=&quot;#ff66b3&quot;&gt;【使命愿景价值观】&lt;/font&gt;）；法（战略思想策略价值观决策-&lt;font color=&quot;#ff33ff&quot;&gt;【方向路径】&lt;/font&gt;目标计划）；术（技战术谋略技巧手段经验&lt;font color=&quot;#ff00ff&quot;&gt;【方法手段】&lt;/font&gt;高效执行）；器（资源-工具脑子身体网络&lt;font color=&quot;#ff66ff&quot;&gt;【工具资源】&lt;/font&gt;项目成功）&lt;/li&gt;&lt;ol&gt;&lt;li&gt;想要什么want》在哪里找where》怎么去how》用什么实现 what&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;66&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-93">
-          <mxGeometry y="30" width="780" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-170" target="NZoPy9VmbZLPDRG8ih34-195">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-170" value="输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="92" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-176" value="传授-教会别人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1113.02" y="15" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-178" value="实践-别人付费" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1113.02" y="115" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-182" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1052.02" y="95" as="sourcePoint" />
-            <mxPoint x="1112.02" y="45" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-185" value="知识化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-182">
-          <mxGeometry x="-0.0852" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-183" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.633;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="NZoPy9VmbZLPDRG8ih34-178">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="122" as="sourcePoint" />
-            <mxPoint x="1112.02" y="75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-184" value="产品化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-183">
-          <mxGeometry x="-0.1141" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-87" value="&lt;ol&gt;&lt;li&gt;概述&lt;/li&gt;&lt;ol&gt;&lt;li&gt;人不为己，天诛地灭&lt;/li&gt;&lt;li&gt;穷则独善其身，富则兼济天下&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;策略&lt;/li&gt;&lt;ol&gt;&lt;li&gt;输出倒闭输入；以战带练；理论+实战+复盘抽象模型&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;注意&lt;/li&gt;&lt;ol&gt;&lt;li&gt;执行力：目标不等于结果，执行落地才是结果，不要停留在想的层面，而是真实的经历，干的过程中！执行力！别幻想&lt;/li&gt;&lt;li&gt;分清楚：愿景 目标 手段 计划&lt;/li&gt;&lt;li&gt;&lt;b&gt;学习是解决问题的手段，而不是逃避思考和行动的工具 ！变现！&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;架构设计：不同层面 维度 高度 难度 境界可以有不同的架构设计&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则一：原理逻辑性和完备性&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则二：好理解好记忆好上手&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;梳理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;（精力管理）优先级：核心本质 主次 轻重 缓急 先后&lt;/li&gt;&lt;li&gt;（时间管理）时间轴：高效时间；整块时间；碎片时间&lt;/li&gt;&lt;li&gt;（效率管理）专注；高效；主动；勇敢&lt;/li&gt;&lt;li&gt;（目标管理）愿景》目标计划okr》项目任务》复盘迭代&lt;/li&gt;&lt;li&gt;（复盘管理）过程（具体的时间 思考 心态 行为）；思考（分析）；改进（迭代升级）&lt;/li&gt;&lt;li&gt;（维度管理）任何事情用刀法术器分解&lt;/li&gt;&lt;ol&gt;&lt;li&gt;道法术器 虚实结合=&lt;/li&gt;&lt;ol&gt;&lt;li&gt;规律》规则》技术》工具&lt;br&gt;&lt;/li&gt;&lt;li&gt;本质（事实）》方向（调整改变）》方法（路径经验）》 工具（个人=身体 脑子； 外在=资源关系）；&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;想去哪里want where》怎么去how》用什么实现 who what when how much&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;道（因果-规律-原理本质-&lt;font color=&quot;#ff66b3&quot;&gt;【使命愿景价值观】&lt;/font&gt;）；&lt;/li&gt;&lt;li&gt;法（战略-思想-策略-价值观决策-&lt;font color=&quot;#ff33ff&quot;&gt;【方向路径】&lt;/font&gt;目标计划）；&lt;/li&gt;&lt;li&gt;术（技术 战术 谋略 技巧 手段经验&lt;font color=&quot;#ff00ff&quot;&gt;【方法手段】&lt;/font&gt;高效执行）；&lt;/li&gt;&lt;li&gt;器（资源-工具脑子身体网络&lt;font color=&quot;#ff66ff&quot;&gt;【工具资源】&lt;/font&gt;项目成功）&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;66&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-93">
+          <mxGeometry y="30" width="780" height="470" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-186" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="35" width="250" height="130" as="geometry" />
@@ -304,8 +280,90 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-193" value="行动系统高效" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-135" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="750" y="10" width="300" height="190" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-204" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="20" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-205" target="NZoPy9VmbZLPDRG8ih34-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-205" value="收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-206" target="NZoPy9VmbZLPDRG8ih34-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-206" target="NZoPy9VmbZLPDRG8ih34-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-206" value="整理&lt;br&gt;目标计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-208" target="NZoPy9VmbZLPDRG8ih34-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-208" value="执行&lt;br&gt;项目任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-211" target="NZoPy9VmbZLPDRG8ih34-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-211" value="复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-213" value="归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="190" width="61" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-220" value="okr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-221" value="番茄25mins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="99" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-234" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;速记&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;删除&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;备忘录（将来也许）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;参考资料（以变查找）&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="439" width="200" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-236" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;立即执行&lt;/span&gt;&lt;/li&gt;&lt;li&gt;委派他人：指定人时间&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;自己处理：领域项目任务资料&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;（领导管理）计划安排&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;（自己动作）项目任务&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;整理清单&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;推迟处理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;日程安排 指定时间&lt;/li&gt;&lt;li&gt;待办事项 越早做越好&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="439" width="217.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-256" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同领域&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;健康 学习 工作 生活 理财 其他&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同事项&lt;/li&gt;&lt;ol&gt;&lt;li&gt;项目任务（目标计划项目任务）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;梳理整理&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;思考&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;资料&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="381" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-262" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" width="650" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-170" value="输出&lt;br&gt;不同领域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="350" y="92" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-176" value="传授-教会别人" style="whiteSpace=wrap;html=1;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="443.02" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-178" value="实践-别人付费" style="whiteSpace=wrap;html=1;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="443.02" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-182" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382.02" y="95" as="sourcePoint" />
+            <mxPoint x="442.02" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-185" value="知识化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-182">
+          <mxGeometry x="-0.0852" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-183" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.633;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NZoPy9VmbZLPDRG8ih34-262" target="NZoPy9VmbZLPDRG8ih34-178">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="122" as="sourcePoint" />
+            <mxPoint x="442.02" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-184" value="产品化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-183">
+          <mxGeometry x="-0.1141" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-135" value="" style="group" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="80" y="10" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-116" value="" style="group" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-135">
           <mxGeometry width="280" height="190" as="geometry" />
@@ -375,6 +433,9 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-201" value="处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-134">
           <mxGeometry x="-3" y="87" width="46" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-261" value="&lt;b&gt;抽象能力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-134">
+          <mxGeometry x="122" y="7" width="58" height="23" as="geometry" />
+        </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-129" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.075;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NZoPy9VmbZLPDRG8ih34-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="195" y="125" as="sourcePoint" />
@@ -392,80 +453,38 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-133" value="学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-135">
           <mxGeometry x="240" y="133.06" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-149" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="670" y="7" width="20" height="193" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-149" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry y="7" width="20" height="193" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-158" value="主动过程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="80" width="70" height="30" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-158" value="主动过程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="450" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-195" value="复盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="92" width="60" height="30" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-195" value="复盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="580" y="92" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NZoPy9VmbZLPDRG8ih34-262" source="NZoPy9VmbZLPDRG8ih34-170" target="NZoPy9VmbZLPDRG8ih34-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NZoPy9VmbZLPDRG8ih34-262">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="736" y="103.5" as="sourcePoint" />
-            <mxPoint x="760" y="103.5" as="targetPoint" />
+            <mxPoint x="66" y="103.5" as="sourcePoint" />
+            <mxPoint x="90" y="103.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-199" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="87" width="46" height="33" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-199" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="20" y="87" width="46" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-203" value="被动过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="46" width="60" height="30" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-203" value="被动过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="50" y="46" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-204" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="20" width="20" height="170" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-218" value="心力-脑力-体力；智商-情商-财商-逆商-言颜商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="10" y="200" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-205" target="NZoPy9VmbZLPDRG8ih34-206">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-219" value="学习方法&lt;br&gt;内外求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-262">
+          <mxGeometry x="27" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-205" value="收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="8" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-206" target="NZoPy9VmbZLPDRG8ih34-208">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-206" target="NZoPy9VmbZLPDRG8ih34-208">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-206" value="整理&lt;br&gt;目标计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="50" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-208" target="NZoPy9VmbZLPDRG8ih34-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-208" value="执行&lt;br&gt;项目任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="100" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-211" target="NZoPy9VmbZLPDRG8ih34-213">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-211" value="复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-213" value="归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1428" y="190" width="61" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-218" value="心力-脑力-体力；智商-情商-财商-逆商-言颜商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="640" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-219" value="学习方法&lt;br&gt;内外求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="697" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-220" value="okr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1472" y="53" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-221" value="番茄25mins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="99" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-234" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;整理&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="436" width="120" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-236" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;整理&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="436" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-256" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同领域&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;健康 学习 工作 生活 理财 其他&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同事项&lt;/li&gt;&lt;ol&gt;&lt;li&gt;任务（目标计划项目任务）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;思考&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;资料&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="391" width="260" height="150" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-266" value="&lt;h1&gt;执行闭环&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;执行&lt;/li&gt;&lt;ol&gt;&lt;li&gt;主要&lt;/li&gt;&lt;li&gt;次要&lt;/li&gt;&lt;li&gt;并行&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;验收&lt;/li&gt;&lt;li&gt;完成&lt;/li&gt;&lt;li&gt;阻塞&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="844" y="890" width="236" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
