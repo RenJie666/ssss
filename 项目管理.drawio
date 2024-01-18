@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T10:34:36.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZQztq5ltrjNBOc7NnbeN" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T12:02:56.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ya0UZvbAAar2s5d7Ph5s" version="22.1.18" type="github">
   <diagram name="第 1 页" id="4Qpj_fmBWcSnVKlhVKCQ">
     <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NZoPy9VmbZLPDRG8ih34-2" value="个人管理架构设计" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-820" width="200" height="30" as="geometry" />
+          <mxGeometry x="20" y="-1160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-4" target="NZoPy9VmbZLPDRG8ih34-5">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
             <mxPoint x="-2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-263" value="评估-计划-就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-237">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-263" value="评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-237">
           <mxGeometry x="-0.8693" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-13" value="输出：成果展示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-36" target="NZoPy9VmbZLPDRG8ih34-39">
           <mxGeometry relative="1" as="geometry">
@@ -100,13 +100,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-36" value="&lt;h1&gt;执行优先级&lt;/h1&gt;&lt;div&gt;一，重要性角度：重要紧急；重要不紧急；不重要不紧急&lt;/div&gt;&lt;div&gt;二，周期性角度：长期；中期；短期&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="834" y="411.5" width="227.5" height="109" as="geometry" />
+          <mxGeometry x="810" y="411.5" width="227.5" height="109" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-39" target="NZoPy9VmbZLPDRG8ih34-266">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-39" value="&lt;h1&gt;执行内容-领域-形式&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;项目任务【多步长期完成】&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;project：各个领域的&lt;br&gt;&lt;/li&gt;&lt;li&gt;任务：项目相关的任务&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;代办清单【单步短期完成的】&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;行程安排【行动清单 】&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结合上面两步根据项目任务和代办清单的重要性时间安排 自动生成daily dashborad&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;落地执行清单&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;思考速记&lt;/li&gt;&lt;li&gt;整理梳理&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="844" y="570" width="235" height="240" as="geometry" />
+          <mxGeometry x="806.5" y="570" width="235" height="240" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-41" target="NZoPy9VmbZLPDRG8ih34-55">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
             <mxRectangle x="10" y="-500" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-87" value="&lt;ol&gt;&lt;li&gt;概述&lt;/li&gt;&lt;ol&gt;&lt;li&gt;人不为己，天诛地灭&lt;/li&gt;&lt;li&gt;穷则独善其身，富则兼济天下&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;策略&lt;/li&gt;&lt;ol&gt;&lt;li&gt;输出倒闭输入；以战带练；理论+实战+复盘抽象模型&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;注意&lt;/li&gt;&lt;ol&gt;&lt;li&gt;执行力：目标不等于结果，执行落地才是结果，不要停留在想的层面，而是真实的经历，干的过程中！执行力！别幻想&lt;/li&gt;&lt;li&gt;分清楚：愿景 目标 手段 计划&lt;/li&gt;&lt;li&gt;&lt;b&gt;学习是解决问题的手段，而不是逃避思考和行动的工具 ！变现！&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;架构设计：不同层面 维度 高度 难度 境界可以有不同的架构设计&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则一：原理逻辑性和完备性&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则二：好理解好记忆好上手&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;梳理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;（精力管理）优先级：核心本质 主次 轻重 缓急 先后&lt;/li&gt;&lt;li&gt;（时间管理）时间轴：高效时间；整块时间；碎片时间&lt;/li&gt;&lt;li&gt;（效率管理）专注；高效；主动；勇敢&lt;/li&gt;&lt;li&gt;（目标管理）愿景》目标计划okr》项目任务》复盘迭代&lt;/li&gt;&lt;li&gt;（复盘管理）过程（具体的时间 思考 心态 行为）；思考（分析）；改进（迭代升级）&lt;/li&gt;&lt;li&gt;（维度管理）任何事情用刀法术器分解&lt;/li&gt;&lt;ol&gt;&lt;li&gt;道法术器 虚实结合=&lt;/li&gt;&lt;ol&gt;&lt;li&gt;规律》规则》技术》工具&lt;br&gt;&lt;/li&gt;&lt;li&gt;本质（事实）》方向（调整改变）》方法（路径经验）》 工具（个人=身体 脑子； 外在=资源关系）；&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;想去哪里want where》怎么去how》用什么实现 who what when how much&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;道（因果-规律-原理本质-&lt;font color=&quot;#ff66b3&quot;&gt;【使命愿景价值观】&lt;/font&gt;）；&lt;/li&gt;&lt;li&gt;法（战略-思想-策略-价值观决策-&lt;font color=&quot;#ff33ff&quot;&gt;【方向路径】&lt;/font&gt;目标计划）；&lt;/li&gt;&lt;li&gt;术（技术 战术 谋略 技巧 手段经验&lt;font color=&quot;#ff00ff&quot;&gt;【方法手段】&lt;/font&gt;高效执行）；&lt;/li&gt;&lt;li&gt;器（资源-工具脑子身体网络&lt;font color=&quot;#ff66ff&quot;&gt;【工具资源】&lt;/font&gt;项目成功）&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;66&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-93">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-87" value="&lt;ol&gt;&lt;li&gt;概述&lt;/li&gt;&lt;ol&gt;&lt;li&gt;人不为己，天诛地灭&lt;/li&gt;&lt;li&gt;穷则独善其身，富则兼济天下&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;策略&lt;/li&gt;&lt;ol&gt;&lt;li&gt;输出倒闭输入；以战带练；理论+实战+复盘抽象模型&lt;/li&gt;&lt;li&gt;想和学习不等于 练习和实战&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;注意&lt;/li&gt;&lt;ol&gt;&lt;li&gt;执行力：目标不等于结果，执行落地才是结果，不要停留在想的层面，而是真实的经历，干的过程中！执行力！别幻想&lt;/li&gt;&lt;li&gt;分清楚：愿景 目标 手段 计划&lt;/li&gt;&lt;li&gt;&lt;b&gt;学习是解决问题的手段，而不是逃避思考和行动的工具 ！变现！&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;架构设计：不同层面 维度 高度 难度 境界可以有不同的架构设计&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则一：原理逻辑性和完备性&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;原则二：好理解好记忆好上手&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#ff66b3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;梳理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;（精力管理）优先级：核心本质 主次 轻重 缓急 先后&lt;/li&gt;&lt;li&gt;（时间管理）时间轴：高效时间；整块时间；碎片时间&lt;/li&gt;&lt;li&gt;（效率管理）专注；高效；主动；勇敢&lt;/li&gt;&lt;li&gt;（目标管理）愿景》目标计划okr》项目任务》复盘迭代&lt;/li&gt;&lt;li&gt;（复盘管理）过程（具体的时间 思考 心态 行为）；思考（分析）；改进（迭代升级）&lt;/li&gt;&lt;li&gt;（维度管理）任何事情用刀法术器分解&lt;/li&gt;&lt;ol&gt;&lt;li&gt;道法术器 虚实结合=&lt;/li&gt;&lt;ol&gt;&lt;li&gt;规律》规则》技术》工具&lt;br&gt;&lt;/li&gt;&lt;li&gt;本质（事实）》方向（调整改变）》方法（路径经验）》 工具（个人=身体 脑子； 外在=资源关系）；&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;想去哪里want where》怎么去how》用什么实现 who what when how much&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;道（因果-规律-原理本质-&lt;font color=&quot;#ff66b3&quot;&gt;【使命愿景价值观】&lt;/font&gt;）；&lt;/li&gt;&lt;li&gt;法（战略-思想-策略-价值观决策-&lt;font color=&quot;#ff33ff&quot;&gt;【方向路径】&lt;/font&gt;目标计划）；&lt;/li&gt;&lt;li&gt;术（技术 战术 谋略 技巧 手段经验&lt;font color=&quot;#ff00ff&quot;&gt;【方法手段】&lt;/font&gt;高效执行）；&lt;/li&gt;&lt;li&gt;器（资源-工具脑子身体网络&lt;font color=&quot;#ff66ff&quot;&gt;【工具资源】&lt;/font&gt;项目成功）&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;66&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="NZoPy9VmbZLPDRG8ih34-93">
           <mxGeometry y="30" width="780" height="470" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-186" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -320,13 +320,13 @@
           <mxGeometry x="1485" y="99" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-234" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;速记&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;删除&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;备忘录（将来也许）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;参考资料（以变查找）&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="290" y="439" width="200" height="91" as="geometry" />
+          <mxGeometry x="290" y="439" width="200" height="161" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-236" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;立即执行&lt;/span&gt;&lt;/li&gt;&lt;li&gt;委派他人：指定人时间&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;自己处理：领域项目任务资料&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;（领导管理）计划安排&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;（自己动作）项目任务&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;整理清单&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;推迟处理&lt;/li&gt;&lt;ol&gt;&lt;li&gt;日程安排 指定时间&lt;/li&gt;&lt;li&gt;待办事项 越早做越好&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="439" width="217.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-256" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同领域&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;健康 学习 工作 生活 理财 其他&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同事项&lt;/li&gt;&lt;ol&gt;&lt;li&gt;项目任务（目标计划项目任务）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;梳理整理&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;思考&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;资料&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="381" width="270" height="170" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-256" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同领域&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;健康 学习 工作 生活 理财 其他&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同事项&lt;/li&gt;&lt;ol&gt;&lt;li&gt;项目任务（目标计划项目任务）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;代办清单&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;梳理整理&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;思考&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;资料&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="434" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-262" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="670" width="650" height="240" as="geometry" />
@@ -484,7 +484,35 @@
           <mxGeometry x="27" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-266" value="&lt;h1&gt;执行闭环&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;执行&lt;/li&gt;&lt;ol&gt;&lt;li&gt;主要&lt;/li&gt;&lt;li&gt;次要&lt;/li&gt;&lt;li&gt;并行&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;验收&lt;/li&gt;&lt;li&gt;完成&lt;/li&gt;&lt;li&gt;阻塞&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="844" y="890" width="236" height="170" as="geometry" />
+          <mxGeometry x="806" y="860" width="236" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZoPy9VmbZLPDRG8ih34-268" target="NZoPy9VmbZLPDRG8ih34-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-274" value="就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-273">
+          <mxGeometry x="-0.5319" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-268" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计划要做的事情&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="695" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-272" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;就绪清单&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="766" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-275" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="450" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-276" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="645" as="sourcePoint" />
+            <mxPoint x="499.5" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-277" value="目标计划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-276">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
