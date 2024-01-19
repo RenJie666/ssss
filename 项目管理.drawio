@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:18:59.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ht2cTvCA_ralfQLRPo9E" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:21:56.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EMmNwQhJ9-7wEAicgUzq" version="22.1.21" type="github">
   <diagram name="第 1 页" id="4Qpj_fmBWcSnVKlhVKCQ">
     <mxGraphModel dx="1434" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,8 +53,13 @@
             <mxPoint x="-2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-263" value="评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="NZoPy9VmbZLPDRG8ih34-237" vertex="1" connectable="0">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-263" value="判断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="NZoPy9VmbZLPDRG8ih34-237" vertex="1" connectable="0">
           <mxGeometry x="-0.8693" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIUXWZDWdAX_XTMYiimM-34" value="评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="NZoPy9VmbZLPDRG8ih34-237">
+          <mxGeometry x="0.7964" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -497,8 +502,8 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-268" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;方案：目标计划要做的事情&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="529.86" y="653" width="220.14" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-272" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;就绪清单&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="540" y="760" width="200" height="35" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-272" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;就绪清单&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;必须完成&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;主要&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;次要&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;其他&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="540" y="760" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-276" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -776,6 +781,9 @@
         </mxCell>
         <mxCell id="EIUXWZDWdAX_XTMYiimM-30" value="社会关系；资产资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="521" y="-1110" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIUXWZDWdAX_XTMYiimM-35" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;巴菲特说写出人生对你最重要的事情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
