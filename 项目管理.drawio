@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T06:50:56.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D0Qj8v4O3BEM3AM6TTrp" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T06:52:14.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3N9UCVX1-dkNqMNuG-tc" version="22.1.21" type="github">
   <diagram name="第 1 页" id="4Qpj_fmBWcSnVKlhVKCQ">
     <mxGraphModel dx="1687" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,14 +114,14 @@
         <mxCell id="NZoPy9VmbZLPDRG8ih34-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NZoPy9VmbZLPDRG8ih34-58" target="NZoPy9VmbZLPDRG8ih34-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-58" value="人生战略过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-58" value="人生战略过程&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="-145" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NZoPy9VmbZLPDRG8ih34-59" target="NZoPy9VmbZLPDRG8ih34-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NZoPy9VmbZLPDRG8ih34-59" value="愿景&lt;br&gt;人生愿景&lt;br&gt;自我洞察&lt;br&gt;里程碑" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-160" width="120" height="60" as="geometry" />
+        <mxCell id="NZoPy9VmbZLPDRG8ih34-59" value="愿景&lt;br&gt;人生愿景&lt;br&gt;自我洞察&lt;br&gt;里程碑&lt;br&gt;领域" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-164" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NZoPy9VmbZLPDRG8ih34-61" target="NZoPy9VmbZLPDRG8ih34-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
