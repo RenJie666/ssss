@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T02:43:02.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FCraVQT3bKwFGBjCZDrK" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T11:11:44.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HtoHQmT5RTtfLxG3m2tF" version="22.1.21" type="github">
   <diagram name="第 1 页" id="4Qpj_fmBWcSnVKlhVKCQ">
-    <mxGraphModel dx="724" dy="2698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
           <mxGeometry x="522.5" y="439" width="217.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-256" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同领域&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同内容对象&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;健康 学习 工作 生活 理财 其他&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;个人&amp;nbsp; 家人 爱人 子女 社会关系&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同事项&lt;/li&gt;&lt;ol&gt;&lt;li&gt;项目任务（目标计划项目任务）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;代办清单（一步完成没相关性）&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;速记清单（梳理整理）&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;思考&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;资料&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;需求管理（洞察商机）&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;商业机遇&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;不同时空&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;过去：复盘意识&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;问题&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;当下：全力以赴&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;手头工作；问题&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;未来：未雨绸缪&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;机遇布局&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;核心竞争力&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;底层动机&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;愿景&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry y="334" width="270" height="370" as="geometry" />
+          <mxGeometry y="439" width="270" height="370" as="geometry" />
         </mxCell>
         <mxCell id="NZoPy9VmbZLPDRG8ih34-262" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="670" width="650" height="240" as="geometry" />
